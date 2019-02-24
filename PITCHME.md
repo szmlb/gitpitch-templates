@@ -52,27 +52,27 @@ console.log( str3 );
 
 ---
 
-### スライドを確認する
+### スライドを確認
  
-- Access to the https://gitpitch.com/user/repo 
-- or https://gitpitch.com/user/repo/branch, if branch is specified
-- If you want to use multiple slides in one repo, make a directory for each slides
-- Then, access to https://gitpitch.com/user/repo/(branch)?p=directory
+- https://gitpitch.com/user/repo にアクセスしてスライドを確認できる
+- ブランチを指定する場合は https://gitpitch.com/user/repo/branch とする
+- １つのリポジトリで複数のスライドを作りたい場合, スライドごとにディレクトリを用意する
+- スライドごとに https://gitpitch.com/user/repo/(branch)?p=directory にアクセスすればOK
 
 ---
 
 ### 数式
 
-- Visualized by [MathJax](http://docs.mathjax.org/en/latest/index.html)
-- Please refer [this page](https://qiita.com/PlanetMeron/items/63ac58898541cbe81ada)
-- Equation ${\bf x}$ can be embeded in texts 
-- Line by line
+- [MathJax](http://docs.mathjax.org/en/latest/index.html)を使う
+- MathJaxに関しては[この記事](https://qiita.com/PlanetMeron/items/63ac58898541cbe81ada)が参考になる
+- 式をこんな感じで ${\bf x}$ 本文の中に埋め込める
+- 式ごとに改行して表示
 $$ \boldsymbol{\mu} $$
 $$ {\bf x} $$
-- Alignment
-`
+- =で整列して表示
+```math
 \begin{align}
-f(x) &=& a \\
-g(x) &=& b
+f(x) &= a \\
+g(x) &= b
 \end{align}
-`
+```
