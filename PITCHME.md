@@ -85,6 +85,32 @@ MidPoint
 
 ---
 
+### ボックスで囲まれたテキストの挿入
+
++++?color=black
+
+@snap[north-west span-35]
+@box[bg-green text-white demo-box-pad](1. Plan#Lorem ipsum dolor sit amet eiusmod)
+@snapend
+
+@snap[north-east span-35]
+@box[bg-orange text-white rounded demo-box-pad](2. Build#Sed do eiusmod tempor labore)
+@snapend
+
+@snap[south-east span-35]
+@box[bg-pink text-white demo-box-pad](3. Measure#Cupidatat non proident sunt in)
+@snapend
+
+@snap[south-west span-35]
+@box[bg-blue text-white waved demo-box-pad](4. Repeat#Ut enim ad minim veniam prodient)
+@snapend
+
+@snap[midpoint]
+@fa[refresh fa-3x]
+@snapend
+
+---
+
 ### 順番にアニメーション表示
 
 - Java
