@@ -13,8 +13,10 @@
 
 ### 文字の色やサイズを調整
 
-- @size[small](小さい), @size[medium](普通), @size[large](大きい)
-- @size[10px](10px), @size[15px](15px), @size[20px](20px)
+- @size[small](小さい), @size[medium](普通), @size[large](大きい), なんもなし
+- @size[10px](10px), @size[15px](15px), @size[20px](20px), @size[30px](30px)
+- @color[red](赤), @color[blue](青), @color[green](緑), @color[white](白), @color[black](黒)
+- @color[red](赤)
 
 @snap[south]
 @size[small](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size)
