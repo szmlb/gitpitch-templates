@@ -63,16 +63,16 @@ console.log( str3 );
 
 ### Equation
 
-- Equaitons can be visualized by MathJax
-- See https://qiita.com/PlanetMeron/items/63ac58898541cbe81ada
+- Visualized by [MathJax](http://docs.mathjax.org/en/latest/index.html)
+- Please refer [this page](https://qiita.com/PlanetMeron/items/63ac58898541cbe81ada)
 - Equation ${\bf x}$ can be embeded in texts 
-
+- Line by line
 $$ \boldsymbol{\mu} $$
 $$ {\bf x} $$
-
-```
+- Alignmens
+`
 \begin{align}
 f(x) &=& a \\
 g(x) &=& b
 \end{align}
-```
+`
