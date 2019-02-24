@@ -2,42 +2,23 @@
 
 ---
 
-### ソースコードを表示
-
-```
-  defmodule GenMetrics.GenStage.Monitor do
-	use GenServer
-	alias GenMetrics.GenStage.Manager
-	alias GenMetrics.GenStage.Monitor
-	alias GenMetrics.GenStage.Pipeline
-	alias GenMetrics.GenStage.Window
-	alias GenMetrics.Reporter
-	alias GenMetrics.Utils.Runtime
-
-	@moduledoc false
-	@handle_demand :handle_demand
-	@handle_events :handle_events
-	@handle_call   :handle_call
-	@handle_cast   :handle_cast
-	
-	defstruct pipeline: %Pipeline{}, metrics: nil, start: 0, duration: 0
-```
+### スライドを確認
+ 
+- https://gitpitch.com/user/repo にアクセスしてスライドを確認できる
+- ブランチを指定する場合は https://gitpitch.com/user/repo/branch とする
+- １つのリポジトリで複数のスライドを作りたい場合, スライドごとにディレクトリを用意する
+- スライドごとに https://gitpitch.com/user/repo/(branch)?p=directory にアクセスすればOK
 
 ---
 
-### 指定したコードだけハイライト表示
+### 文字の色やサイズを調整
 
-```
-var str1 = 'hello world';
-var flag = true;
-var result = 10 + 20;
+- @size[small](小さい), @size[medium](普通), @size[large](大きい)
+- @size[10px](10px), @size[15px](15px), @size[20px](20px)
 
-
-console.log( str1 );
-console.log( str2 );
-console.log( str3 );
-```
-@[2](flagに「true」を代入)
+@snap[south]
+@size[small](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size)
+@snapend
 
 ---
 
@@ -106,9 +87,8 @@ MidPoint
 @snapend
 
 @snap[midpoint span-35]
-@box[bg-black text-white waved demo-box-pad](center)
+@box[bg-black text-white demo-box-pad](center)
 @snapend
-
 
 ---
 
@@ -119,15 +99,6 @@ MidPoint
 - Kotlin |
 - Go |
 - Scala |
-
----
-
-### スライドを確認
- 
-- https://gitpitch.com/user/repo にアクセスしてスライドを確認できる
-- ブランチを指定する場合は https://gitpitch.com/user/repo/branch とする
-- １つのリポジトリで複数のスライドを作りたい場合, スライドごとにディレクトリを用意する
-- スライドごとに https://gitpitch.com/user/repo/(branch)?p=directory にアクセスすればOK
 
 ---
 
@@ -149,6 +120,46 @@ g(x) &= b
 
 ---
 
+### ソースコードを表示
+
+```
+  defmodule GenMetrics.GenStage.Monitor do
+	use GenServer
+	alias GenMetrics.GenStage.Manager
+	alias GenMetrics.GenStage.Monitor
+	alias GenMetrics.GenStage.Pipeline
+	alias GenMetrics.GenStage.Window
+	alias GenMetrics.Reporter
+	alias GenMetrics.Utils.Runtime
+
+	@moduledoc false
+	@handle_demand :handle_demand
+	@handle_events :handle_events
+	@handle_call   :handle_call
+	@handle_cast   :handle_cast
+	
+	defstruct pipeline: %Pipeline{}, metrics: nil, start: 0, duration: 0
+```
+
+---
+
+### 指定したコードだけハイライト表示
+
+```
+var str1 = 'hello world';
+var flag = true;
+var result = 10 + 20;
+
+
+console.log( str1 );
+console.log( str2 );
+console.log( str3 );
+```
+@[2](flagに「true」を代入)
+
+
+---
+
 ### 画像の読み込み
 
 ![腹たつ](assets/img/Asset.jpg)
@@ -165,7 +176,3 @@ g(x) &= b
 ### youtubeの動画を表示
 
 ![Video](https://www.youtube.com/embed/mkiDkkdGGAQ) 
-
-@snap[south]
-https://gitpitch.com/docs/rich-media-features/inline-videos/
-@snapend
