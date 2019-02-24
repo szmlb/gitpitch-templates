@@ -24,11 +24,15 @@
 
 ---
 
-### Markdownのおさらに
+### Markdownのおさらい
 
 - hoge
 	- hoge
 	- hoge
+
+* hoge
+	* hoge
+	* hoge
 
 @snap[south]
 @size[small](https://qiita.com/kamorits/items/6f342da395ad57468ae3)
