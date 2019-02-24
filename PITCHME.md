@@ -63,7 +63,16 @@ console.log( str3 );
 
 ### Equation
 
+- Equaitons can be visualized by MathJax
+- See https://qiita.com/PlanetMeron/items/63ac58898541cbe81ada
+- Equation ${\bf x}$ can be embeded in texts 
+
 $$ \boldsymbol{\mu} $$
 $$ {\bf x} $$
-$$ a &=& 1 + b + 2 + c + \cdots $$
-$$   &=& hoge $$
+
+```
+\begin{align}
+f(x) &=& a \\
+g(x) &=& b
+\end{align}
+```
