@@ -105,6 +105,11 @@ MidPoint
 @box[bg-blue text-white waved demo-box-pad](4. Repeat#Ut enim ad minim veniam prodient)
 @snapend
 
+@snap[midpoint span-35]
+@box[bg-black text-white waved demo-box-pad](center)
+@snapend
+
+
 ---
 
 ### 順番にアニメーション表示
@@ -159,10 +164,8 @@ g(x) &= b
 
 ### youtubeの動画を表示
 
-@snap[north]
 ![Video](https://www.youtube.com/embed/mkiDkkdGGAQ) 
-@snapend	
 
-@snap[south-west]
+@snap[south]
 https://gitpitch.com/docs/rich-media-features/inline-videos/
 @snapend
