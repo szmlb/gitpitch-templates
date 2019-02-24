@@ -70,9 +70,9 @@ console.log( str3 );
 $$ \boldsymbol{\mu} $$
 $$ {\bf x} $$
 - =で整列して表示
-```math
+`
 \begin{align}
 f(x) &= a \\
 g(x) &= b
 \end{align}
-```
+`
