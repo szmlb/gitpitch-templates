@@ -81,5 +81,5 @@ g(x) &= b
 
 ### 画像の読み込み
 
-![Logo](assets/img/Assets.jpg)
+![Logo](assets/img/Asset.jpg)
 
