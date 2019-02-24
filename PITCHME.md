@@ -81,5 +81,11 @@ g(x) &= b
 
 ### 画像の読み込み
 
-![Logo](assets/img/Asset.jpg)
+![腹たつ](assets/img/Asset.jpg)
+
+———
+
+### リンクから画像を表示
+
+![Logo](https://onetapbeyond.github.io/resource/img/samba/new-samba-deploy.jpg)
 
