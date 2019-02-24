@@ -1,3 +1,5 @@
-layout : top
+layout : center
 
 mathjax : TeX-MML-AM_HTMLorMML-full
+
+code-line-numbers : true

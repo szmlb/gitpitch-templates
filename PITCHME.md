@@ -39,6 +39,49 @@ console.log( str3 );
 ```
 @[2](flagに「true」を代入)
 
+---
+
+### 文字を表示する位置を指定
+
+@snap[north]
+North
+@snapend
+
+@snap[east]
+East
+@snapend
+
+@snap[south]
+South
+@snapend
+
+@snap[west]
+West
+@snapend
+
+@snap[midpoint]
+MidPoint
+@snapend
+
+@snap[north-east]
+North-East
+@snapend
+
+@snap[south-east]
+South-East
+@snapend
+
+@snap[south-west]
+South-West
+@snapend
+
+@snap[north-west]
+North-West
+@snapend
+
+@snap[midpoint]
+MidPoint
+@snapend
 
 ---
 
