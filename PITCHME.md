@@ -63,8 +63,6 @@ console.log( str3 );
 
 ### Equation
 
-- $$\[
-\left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
- \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-\] $$
-- $$ \boldsymbol{\mu}$$, $${\bf x}$$
+$$ \boldsymbol{\mu} $$
+$$ {\bf x} $$
+$$ a = 1 + b + 2 + c + \cdots $$
