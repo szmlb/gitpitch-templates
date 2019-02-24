@@ -1,8 +1,8 @@
-# slide title
+# gitpitchテンプレート
 
 ---
 
-### source code
+### ソースコードを表示
 
 ```
   defmodule GenMetrics.GenStage.Monitor do
@@ -52,7 +52,7 @@ console.log( str3 );
 
 ---
 
-### Check the generated slides
+### スライドを確認する
  
 - Access to the https://gitpitch.com/user/repo 
 - or https://gitpitch.com/user/repo/branch, if branch is specified
@@ -61,7 +61,7 @@ console.log( str3 );
 
 ---
 
-### Equation
+### 数式
 
 - Visualized by [MathJax](http://docs.mathjax.org/en/latest/index.html)
 - Please refer [this page](https://qiita.com/PlanetMeron/items/63ac58898541cbe81ada)
@@ -69,7 +69,7 @@ console.log( str3 );
 - Line by line
 $$ \boldsymbol{\mu} $$
 $$ {\bf x} $$
-- Alignmens
+- Alignment
 `
 \begin{align}
 f(x) &=& a \\
