@@ -137,7 +137,10 @@ g(x) &= b
 
 ### youtubeの動画を表示
 
-![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)	
+@snap[north]
+![Video](https://www.youtube.com/embed/mkiDkkdGGAQ) 
+@snapend	
+
 @snap[south-west]
 https://gitpitch.com/docs/rich-media-features/inline-videos/
 @snapend
