@@ -65,4 +65,5 @@ console.log( str3 );
 
 $$ \boldsymbol{\mu} $$
 $$ {\bf x} $$
-$$ a = 1 + b + 2 + c + \cdots $$
+$$ a &=& 1 + b + 2 + c + \cdots $$
+$$   &=& hoge $$
