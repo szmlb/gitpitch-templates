@@ -24,6 +24,18 @@
 
 ---
 
+### Markdownのおさらに
+
+- hoge
+	- hoge
+	- hoge
+
+@snap[south]
+@size[small](https://qiita.com/kamorits/items/6f342da395ad57468ae3)
+@snapend
+
+---
+
 ### 文字を表示する位置を指定
 
 @snap[north]
