@@ -48,9 +48,7 @@ console.log( str3 );
 
 ---
 
-
 ### 順番にアニメーション表示
-
 
 - Java
 - JavaScript |
@@ -58,5 +56,11 @@ console.log( str3 );
 - Go |
 - Scala |
 
-
 ---
+
+### check the generated slides
+ 
+- Access to the https://gitpitch.com/user/repo 
+- or https://gitpitch.com/user/repo/branch, if branch is specified
+- If you want to use multiple slides in one repo, make a directory for each slides
+- Then, access to https://gitpitch.com/user/repo/(branch)?p=フォルダ名
