@@ -1,14 +1,8 @@
-#### slide title
+# slide title
 
 ---
 
-#### url linking
-
-
-
----
-
-#### source code
+# source code
 
 ```
   defmodule GenMetrics.GenStage.Monitor do
@@ -31,7 +25,7 @@
 
 ---
 
-#### 指定したコードだけハイライト表示
+# 指定したコードだけハイライト表示
 
 ```
 var str1 = 'hello world';
@@ -48,7 +42,7 @@ console.log( str3 );
 
 ---
 
-### 順番にアニメーション表示
+# 順番にアニメーション表示
 
 - Java
 - JavaScript |
@@ -58,9 +52,17 @@ console.log( str3 );
 
 ---
 
-### check the generated slides
+# Check the generated slides
  
 - Access to the https://gitpitch.com/user/repo 
 - or https://gitpitch.com/user/repo/branch, if branch is specified
 - If you want to use multiple slides in one repo, make a directory for each slides
 - Then, access to https://gitpitch.com/user/repo/(branch)?p=フォルダ名
+
+
+# The Cauchy-Schwarz Inequality
+
+`\[
+\left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
+ \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+\]`
