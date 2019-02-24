@@ -79,7 +79,7 @@ South-West
 North-West
 @snapend
 
-@snap[midpoint]
+@snap[midpoint span-35]
 MidPoint
 @snapend
 
@@ -87,7 +87,7 @@ MidPoint
 
 ### ボックスで囲まれたテキストの挿入
 
-+++?color=black
++++?color=white
 
 @snap[north-west span-35]
 @box[bg-green text-white demo-box-pad](1. Plan#Lorem ipsum dolor sit amet eiusmod)
@@ -103,10 +103,6 @@ MidPoint
 
 @snap[south-west span-35]
 @box[bg-blue text-white waved demo-box-pad](4. Repeat#Ut enim ad minim veniam prodient)
-@snapend
-
-@snap[midpoint]
-@fa[refresh fa-3x]
 @snapend
 
 ---
