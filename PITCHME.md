@@ -118,7 +118,7 @@ MidPoint
 
 ### ボックスの周りの線の色を変える
 
-@box[bg-white text-black demo-box-pad](3. Measure # Cupidatat non proident sunt in)
+@box[bg-gray text-black demo-box-pad](3. Measure # Cupidatat non proident sunt in)
 
 ---
 
