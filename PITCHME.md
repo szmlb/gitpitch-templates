@@ -114,14 +114,6 @@ MidPoint
 @box[bg-black text-white demo-box-pad](center)
 @snapend
 
-+++?color=white
-
-### ボックスも順番に出せるよ
-
-@box[bg-gray text-black demo-box-pad](1.  #  yes,) 
-@box[bg-gray text-black demo-box-pad](2.  #  we) |
-@box[bg-gray text-black demo-box-pad](3.  #  can) |
-
 ---
 
 ### 引用
@@ -209,6 +201,16 @@ console.log( str3 );
 ### 画像の読み込み
 
 ![腹たつ](assets/img/Asset.jpg)
+
++++?color=white
+
+@snap[west]
+![腹たつ](assets/img/Asset.jpg)
+@snapend
+
+@snap[east]
+休んでもいいじゃない, 人間だもの
+@snapend
 
 --- 
 
