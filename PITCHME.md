@@ -118,9 +118,9 @@ MidPoint
 
 ### ボックスも順番に出せるよ
 
-@box[bg-gray text-black demo-box-pad](1.  #  yes,) |
+@box[bg-gray text-black demo-box-pad](1.  #  yes,) 
 @box[bg-gray text-black demo-box-pad](2.  #  we) |
-@box[bg-gray text-black demo-box-pad](3.  #  can)
+@box[bg-gray text-black demo-box-pad](3.  #  can) |
 
 ---
 
