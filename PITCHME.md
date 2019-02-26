@@ -116,9 +116,11 @@ MidPoint
 
 +++?color=white
 
-### ボックスの周りの線の色を変える
+### ボックスも順番に出せるよ
 
-@box[bg-gray text-black demo-box-pad](3. Measure # Cupidatat non proident sunt in)
+@box[bg-gray text-black demo-box-pad](1.  #  yes,) |
+@box[bg-gray text-black demo-box-pad](2.  #  we) |
+@box[bg-gray text-black demo-box-pad](3.  #  can)
 
 ---
 
