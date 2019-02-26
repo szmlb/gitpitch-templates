@@ -2,6 +2,24 @@
 
 ---
 
+### Markdownのおさらい
+
+***
+
+- hoge
+	- hoge
+		- hoge
+
+1. **太字**
+2. *イタリック*
+3. *** イタリック+太字 ***
+
+@snap[south]
+@size[small](https://qiita.com/kamorits/items/6f342da395ad57468ae3)
+@snapend
+
+---
+
 ### スライドを確認
 
 - https://gitpitch.com/user/repo にアクセスしてスライドを確認できる
@@ -18,27 +36,11 @@
 - @color[red](赤), @color[blue](青), @color[green](緑), @color[white](白),  @color[gray](灰), @color[black](黒)
 - **@color[royalblue](いい感じの青)**,  **@color[midnightblue](深い青)**, **@color[mediumblue](中くらいの青)**, **@color[dodgerblue](よくわからない青)**
 
+- 
+
 @snap[south]
 @size[small](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size)
 @size[small](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
-@snapend
-
----
-
-### Markdownのおさらい
-
-***
-
-- hoge
-	- hoge
-		- hoge
-
-1. **太字**
-2. *イタリック*
-3. *** イタリック+太字 ***
-
-@snap[south]
-@size[small](https://qiita.com/kamorits/items/6f342da395ad57468ae3)
 @snapend
 
 ---
@@ -110,6 +112,19 @@ MidPoint
 @snap[midpoint span-35]
 @box[bg-black text-white demo-box-pad](center)
 @snapend
+
+---
+
+### 引用
+
+@snap[west span-35]
+@quote[Hoge piyo fuga]
+@snapend
+
+@snap[east span-35]
+@quote[Hoge piyo fuga](@szmlb)
+@snapend
+
 
 ---
 
