@@ -28,11 +28,13 @@
 
 - hoge
 	- hoge
-	- hoge
+		- hoge
 
-* hoge
-	* hoge
-	* hoge
+***
+
+1. *太字*
+2. **イタリック**
+3. *** イタリック+太字 ***
 
 @snap[south]
 @size[small](https://qiita.com/kamorits/items/6f342da395ad57468ae3)
