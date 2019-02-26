@@ -206,6 +206,8 @@ console.log( str3 );
 
 +++?image=assets/img/Asset.jpg&position=left&size=50% 50%&color=white
 
+### 画像と文字の共存
+
 @snap[east span-50]
 休んでもいいじゃない, 人間だもの
 @snapend
