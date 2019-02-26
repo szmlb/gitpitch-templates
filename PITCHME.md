@@ -222,7 +222,7 @@ console.log( str3 );
 
 ![腹たつ](assets/img/Asset.jpg)
 
-+++?image=assets/img/Asset.jpg&position=left&size=25% 70%&color=white
++++?image=assets/img/Asset.jpg&position=left&size=50% 50%&color=white
 
 @snap[north]
 ### 画像と文字の共存
@@ -233,12 +233,12 @@ console.log( str3 );
 @snapend
 
 @snap[south]
-https://developer.mozilla.org/en-US/docs/Web/CSS/background-position
+@size[small](https://developer.mozilla.org/en-US/docs/Web/CSS/background-position)
 @snapend
 
 +++?color=white
 
-@snap[west]
+@snap[west span-50]
 ![腹たつ](assets/img/Asset.jpg)
 @snapend
 
