@@ -84,8 +84,24 @@ South-West
 North-West
 @snapend
 
-@snap[midpoint span-35]
+@snap[midpoint]
 MidPoint
+@snapend
+
++++?color=white
+
+### spanの使い方
+
+@snap[midpoint span-10]
+span-10
+@snapend
+
+@snap[west span-50]
+span-50
+@snapend
+
+@snap[east span-100]
+span-100
 @snapend
 
 ---
@@ -206,7 +222,9 @@ console.log( str3 );
 
 +++?image=assets/img/Asset.jpg&position=left&size=50% 50%&color=white
 
+@snap[south]
 ### 画像と文字の共存
+@snapend
 
 @snap[east span-50]
 休んでもいいじゃない, 人間だもの
