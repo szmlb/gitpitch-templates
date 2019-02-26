@@ -222,7 +222,7 @@ console.log( str3 );
 
 ![腹たつ](assets/img/Asset.jpg)
 
-+++?image=assets/img/Asset.jpg&position=left&size=30% 30%&color=white
++++?image=assets/img/Asset.jpg&position=left&size=25% 70%&color=white
 
 @snap[north]
 ### 画像と文字の共存
@@ -231,6 +231,11 @@ console.log( str3 );
 @snap[east span-50]
 休んでもいいじゃない, 人間だもの
 @snapend
+
+@snap[south]
+https://developer.mozilla.org/en-US/docs/Web/CSS/background-position
+@snapend
+
 
 --- 
 
