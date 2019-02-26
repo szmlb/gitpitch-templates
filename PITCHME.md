@@ -206,7 +206,7 @@ console.log( str3 );
 
 +++?image=assets/img/Asset.jpg&position=left&size=50% 50%&color=white
 
-@snap[east span-35]
+@snap[east span-300]
 休んでもいいじゃない, 人間だもの
 @snapend
 
