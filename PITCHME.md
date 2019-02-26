@@ -90,7 +90,7 @@ MidPoint
 
 +++?color=white
 
-@snap[northspan-100]
+@snap[north span-100]
 ### spanの使い方
 @snapend
 
@@ -102,7 +102,7 @@ span-10だとこうなる
 span-30だとこうなる
 @snapend
 
-@snap[east span-100]
+@snap[south span-100]
 span-100だとこうなる
 @snapend
 
