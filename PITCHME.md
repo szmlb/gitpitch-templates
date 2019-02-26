@@ -236,6 +236,16 @@ console.log( str3 );
 https://developer.mozilla.org/en-US/docs/Web/CSS/background-position
 @snapend
 
++++?color=white
+
+@snap[west]
+![腹たつ](assets/img/Asset.jpg)
+@snapend
+
+@snap[east span-50]
+休んでもいいじゃない, 人間だもの
+@snapend
+
 
 --- 
 
