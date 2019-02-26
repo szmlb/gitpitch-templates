@@ -3,7 +3,16 @@
 ---
 
 ### スライドを確認
- 
+
+``` 
+- https://gitpitch.com/user/repo にアクセスしてスライドを確認できる
+- ブランチを指定する場合は https://gitpitch.com/user/repo/branch とする
+- １つのリポジトリで複数のスライドを作りたい場合, スライドごとにディレクトリを用意する
+- スライドごとに https://gitpitch.com/user/repo/(branch)?p=directory にアクセスすればOK
+```
+
++++?color=white
+
 - https://gitpitch.com/user/repo にアクセスしてスライドを確認できる
 - ブランチを指定する場合は https://gitpitch.com/user/repo/branch とする
 - １つのリポジトリで複数のスライドを作りたい場合, スライドごとにディレクトリを用意する
