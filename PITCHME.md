@@ -138,11 +138,11 @@ span-100だとこうなる
 
 +++?color=white
 
-@snap[west span-35]
+@snap[west span-50]
 @quote[Hoge piyo fuga]
 @snapend
 
-@snap[east span-35]
+@snap[east span-50]
 @quote[Hoge piyo fuga](@szmlb)
 @snapend
 
