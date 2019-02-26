@@ -90,18 +90,20 @@ MidPoint
 
 +++?color=white
 
+@snap[northspan-100]
 ### spanの使い方
-
-@snap[midpoint span-10]
-span-10
 @snapend
 
-@snap[west span-50]
-span-50
+@snap[midpoint span-10]
+span-10だとこうなる
+@snapend
+
+@snap[west span-30]
+span-30だとこうなる
 @snapend
 
 @snap[east span-100]
-span-100
+span-100だとこうなる
 @snapend
 
 ---
@@ -220,9 +222,9 @@ console.log( str3 );
 
 ![腹たつ](assets/img/Asset.jpg)
 
-+++?image=assets/img/Asset.jpg&position=left&size=50% 50%&color=white
++++?image=assets/img/Asset.jpg&position=left&size=30% 30%&color=white
 
-@snap[south]
+@snap[north]
 ### 画像と文字の共存
 @snapend
 
