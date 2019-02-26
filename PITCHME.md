@@ -118,6 +118,8 @@ MidPoint
 
 ### 引用
 
++++?color=white
+
 @snap[west span-35]
 @quote[Hoge piyo fuga]
 @snapend
@@ -125,7 +127,6 @@ MidPoint
 @snap[east span-35]
 @quote[Hoge piyo fuga](@szmlb)
 @snapend
-
 
 ---
 
