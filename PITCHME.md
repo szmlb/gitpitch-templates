@@ -225,7 +225,7 @@ console.log( str3 );
 +++?image=assets/img/Asset.jpg&position=left&size=50% 50%&color=white
 
 @snap[north]
-### 画像と文字の共存
+### 画像と文字の共存 (background)
 @snapend
 
 @snap[east span-50]
@@ -238,6 +238,10 @@ console.log( str3 );
 
 +++?color=white
 
+@snap[north]
+### 画像と文字の共存 (inline)
+@snapend
+
 @snap[west span-50]
 ![腹たつ](assets/img/Asset.jpg)
 @snapend
@@ -245,7 +249,6 @@ console.log( str3 );
 @snap[east span-50]
 休んでもいいじゃない, 人間だもの
 @snapend
-
 
 --- 
 
