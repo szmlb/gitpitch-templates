@@ -204,13 +204,9 @@ console.log( str3 );
 
 +++?color=white
 
-@snap[west]
-![腹たつ](assets/img/Asset.jpg)
-@snapend
+---?image=assets/img/Asset.jpg&position=left&size=50% 100%&color=white
 
-@snap[east]
 休んでもいいじゃない, 人間だもの
-@snapend
 
 --- 
 
