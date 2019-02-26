@@ -19,8 +19,8 @@
 - **@color[royalblue](いい感じの青)**,  **@color[midnightblue](深い青)**, **@color[mediumblue](中くらいの青)**, **@color[dodgerblue](よくわからない青)**
 
 @snap[south]
-フォント: @size[small](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size) 
-色: @size[small](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
+- @size[small](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size)
+-  @size[small](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
 @snapend
 
 ---
