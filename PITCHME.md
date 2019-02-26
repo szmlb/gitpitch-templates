@@ -114,6 +114,12 @@ MidPoint
 @box[bg-black text-white demo-box-pad](center)
 @snapend
 
++++?color=white
+
+### ボックスの周りの線の色を変える
+
+@box[bg-white text-black line-black demo-box-pad](3. Measure#Cupidatat non proident sunt in)
+
 ---
 
 ### 引用
