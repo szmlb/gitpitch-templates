@@ -31,7 +31,7 @@
 
 ### 文字の色やサイズを調整
 
--@size[small](小), @size[medium](中),  @size[large](大), @size[x-large](特大), @size[xx-large](超特大), なんもなし
+- @size[small](小), @size[medium](中),  @size[large](大), @size[x-large](特大), @size[xx-large](超特大), なんもなし
 - @size[10px](10px), @size[15px](15px), @size[20px](20px), @size[30px](30px), @size[40px](40px), @size[50px](50px)
 - @color[red](赤), @color[blue](青), @color[green](緑), @color[white](白),  @color[gray](灰), @color[black](黒)
 - **@color[royalblue](いい感じの青)**,  **@color[midnightblue](深い青)**, **@color[mediumblue](中くらいの青)**, **@color[dodgerblue](よくわからない青)**
