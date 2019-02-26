@@ -204,9 +204,7 @@ console.log( str3 );
 
 ![腹たつ](assets/img/Asset.jpg)
 
-+++?color=white
-
-?image=assets/img/Asset.jpg&position=left&size=50% 50%&color=white
++++?image=assets/img/Asset.jpg&position=left&size=50% 50%&color=white
 
 @snap[east span-35]
 休んでもいいじゃない, 人間だもの
