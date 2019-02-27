@@ -5,24 +5,21 @@
 
 ### 論文情報
 
-
-[IEEE xploreのリンク](https://ieeexplore.ieee.org/document/7575680/)
-
-        [IEEE xploreのリンク](https://ieeexplore.ieee.org/document/7575680/)
+[論文リンク](https://ieeexplore.ieee.org/document/7575680/)
 
 ##### Bibtex
-
-        @ARTICLE{7575680, 
-        author={T. Faulwasser and T. Weber and P. Zometa and R. Findeisen}, 
-        journal={IEEE Transactions on Control Systems Technology}, 
-        title={Implementation of Nonlinear Model Predictive Path-Following Control for an Industrial Robot}, 
-        year={2017}, 
-        volume={25}, 
-        number={4}, 
-        pages={1505-1511}, 
-        doi={10.1109/TCST.2016.2601624}, 
-        month={July},}
-
+```
+@ARTICLE{7575680, 
+         author={T. Faulwasser and T. Weber and P. Zometa and R. Findeisen}, 
+         journal={IEEE Transactions on Control Systems Technology}, 
+         title={Implementation of Nonlinear Model Predictive Path-Following Control for an Industrial Robot}, 
+         year={2017}, 
+         volume={25}, 
+         number={4}, 
+         pages={1505-1511}, 
+         doi={10.1109/TCST.2016.2601624}, 
+         month={July},}
+```
 
 ---
 
