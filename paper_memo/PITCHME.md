@@ -1,11 +1,9 @@
 
-## paper review
+## 論文メモ
 
 ---
 
-### Markdownのおさらい
-
-***
+### 論文情報
 
 - hoge
 	- hoge
@@ -15,18 +13,48 @@
 2. *イタリック*
 3. *** イタリック+太字 ***
 
-@snap[south]
-@size[small](https://qiita.com/kamorits/items/6f342da395ad57468ae3)
-@snapend
+---
+
+### 概要
+
+- hoge
+	- hoge
+		- hoge
+
+1. **太字**
+2. *イタリック*
+3. *** イタリック+太字 ***
 
 ---
 
-### スライドを確認
+### 新規性
 
-- https://gitpitch.com/user/repo にアクセスしてスライドを確認できる
-- ブランチを指定する場合は https://gitpitch.com/user/repo/branch とする
-- １つのリポジトリで複数のスライドを作りたい場合, スライドごとにディレクトリを用意する
-- スライドごとに https://gitpitch.com/user/repo/(branch)?p=directory にアクセスすればOK
+- hoge
+- hoge
+- hoge
+
+---
+
+### 技術・手法の詳細
+
+- hoge
+- hoge
+- hoge
+
+---
+
+### 実装・実験方法
+
+- hoge
+- hoge
+- hoge
 
 
-`
+---
+
+### 今後の課題
+
+- hoge
+- hoge
+- hoge
+
